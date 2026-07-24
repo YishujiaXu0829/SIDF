@@ -1,4 +1,18 @@
 # Scattering-Invertible-Demosaicing-Framework-for-DoFP-Color-Polarization-Imaging-in-Scattering-Media
 Scattering-Invertible Demosaicing Framework for DoFP Color Polarization Imaging in Scattering Media
 
-Dependencies
+## Dependencies
+Python==3.13
+torch==2.10.0
+torchvision
+numpy
+Pillow
+tqdm
+scipy
+h5py
+
+## Code
+model.py 
+test.py
+train.py
+mosaic.py
