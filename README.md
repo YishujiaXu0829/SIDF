@@ -16,3 +16,5 @@ model.py
 test.py
 train.py
 mosaic.py
+
+best.pth is located in Release v1.0 on the right side of the interface.
