@@ -1,4 +1,4 @@
-# Scattering-Invertible-Demosaicing-Framework
+# SIDF: Scattering-Invertible-Demosaicing-Framework
 Scattering-Invertible Demosaicing Framework for DoFP Color Polarization Imaging in Scattering Media
 
 ## Dependencies
