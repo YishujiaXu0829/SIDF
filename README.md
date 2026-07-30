@@ -1,5 +1,4 @@
-# SIDF: Scattering-Invertible-Demosaicing-Framework
-Scattering-Invertible Demosaicing Framework for DoFP Color Polarization Imaging in Scattering Media
+# SIDF: Scattering-Invertible Demosaicing Framework for DoFP Color Polarization Imaging in Scattering Media
 By Yijia Xu, Xiaotong Fei, Linghao Shen, Kai Feng, Mohamed Reda and Haofeng Hu. 
 
 ![](Network.jpg)
@@ -25,14 +24,14 @@ train.py
 mosaic.py
 
 ## Inference
-best.pth is located in Release v1.0 on the right side of the interface.
+Download the weight from this [link](https://github.com/YishujiaXu0829/SIDF/releases/tag/v1.0)
 
 ## Training
 Begin training:
 python train.py
 
 ## SIDF Dataset
-Download the dataset from this [link]() and replace the "datasets" in the project with them. 
+Download the dataset from this [link](https://github.com/YishujiaXu0829/SIDF/releases/tag/v1.0) and replace the "datasets" in the project with them. 
 
 ## Contact
 If you have any questions, please feel free to contact me via "yijia_xu@tju.edu.cn" or open an issue.
