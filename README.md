@@ -18,17 +18,17 @@ By Yijia Xu, Xiaotong Fei, Linghao Shen, Kai Feng, Mohamed Reda and Haofeng Hu.
 - h5py
 
 ## Code
-model.py 
-test.py
-train.py
-mosaic.py
+- model.py 
+- test.py
+- train.py
+- mosaic.py
 
 ## Inference
-Download the weight from this [link](https://github.com/YishujiaXu0829/SIDF/releases/tag/v1.0)
+Download the weight from this [link](https://github.com/YishujiaXu0829/SIDF/releases/tag/v1.0).
 
 ## Training
 Begin training:
-python train.py
+python train.py.
 
 ## SIDF Dataset
 Download the dataset from this [link](https://github.com/YishujiaXu0829/SIDF/releases/tag/v1.0) and replace the "datasets" in the project with them. 
