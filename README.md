@@ -31,7 +31,7 @@ Begin training:
 python train.py.
 
 ## SIDF Dataset
-Download the dataset from this [link](https://github.com/YishujiaXu0829/SIDF/releases/tag/v1.0) and replace the "datasets" in the project with them. 
+Download the dataset from this [link](https://github.com/YishujiaXu0829/SIDF/releases/tag/v1.0) and replace the "dataset" in the project with them. 
 
 ## Contact
 If you have any questions, please feel free to contact me via "yijia_xu@tju.edu.cn" or open an issue.
