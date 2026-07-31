@@ -257,14 +257,10 @@ def run_evaluation(config):
     print(f"Results saved to: {config['output_csv']}")
 
 
-# =============================== Config ===========================
-
 def main():
     config = {
         "data_dir": "./data",
         "depth_mat_dir": "./data",
-        # Current setting evaluates the 15 validation scenes produced by training.
-        # For a separate test set, replace this JSON file with its sample list.
         "sample_names_file": "./outputs/val_sample_names.json",
         "checkpoint": "./outputs/checkpoints/best.pth",
         "output_csv": "./outputs/evaluation_results.csv",
