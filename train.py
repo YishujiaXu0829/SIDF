@@ -533,7 +533,7 @@ class Trainer:
             "model": self.model.state_dict(),
             "optimizer": self.optimizer.state_dict(),
             "scheduler": self.scheduler.state_dict(),
-            "best_val_psnr": self.best_val_psnr,
+            "best_psnr": self.best_val_psnr,
         }
         torch.save(checkpoint, self.checkpoint_dir / "latest.pth")
         if is_best:
